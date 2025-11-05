@@ -1,0 +1,10 @@
+my-personal-site/
+├── index.html
+├── css/
+│   └── style.css
+├── js/
+│   └── script.js
+├── images/
+│   ├── avatar.jpg
+│   └── project1.jpg
+└── README.md
